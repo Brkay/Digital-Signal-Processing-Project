@@ -1,4 +1,4 @@
-# Digital-Signal-Processing-Project
+# Digital-Signal-Processing-Project (Project Part1 Note:90/100, Project Part2 Note:90/100) 
 EE-430-METU Digital Signal Processing course projects<br/> 
 Project_Part1.pdf is the part-1 project description given by instructors.<br/>
 EE430_Project_Part_I_Report.pdf is the report of the part-1 project.<br/>
